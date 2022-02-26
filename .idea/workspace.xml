@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99159278-b151-4897-bb83-2f6b4bc2d197" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YMAmOtveU9cO8OchrxvJZ9SG57" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/N_Puzzle" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/N_Puzzle" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="N_Puzzle.Main" />
+      <module name="A star problem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="N_Puzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="N_Puzzle.N_Puzzle.Main" />
+      <module name="A star problem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="N_Puzzle.N_Puzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="A star problem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester" />
+      <module name="A star problem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.tester" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99159278-b151-4897-bb83-2f6b4bc2d197" name="Default Changelist" comment="" />
+      <created>1582742247179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582742247179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="58" width="800" height="677" key="#Project_Structure" timestamp="1582742298612">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="300" y="58" width="800" height="677" key="#Project_Structure/45.27.1321.741@45.27.1321.741" timestamp="1582742298612" />
+    <state x="163" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583269793666">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="163" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/45.27.1321.741@45.27.1321.741" timestamp="1583269793666" />
+    <state x="456" y="267" width="488" height="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582870272870">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="456" y="267" width="488" height="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/45.27.1321.741@45.27.1321.741" timestamp="1582870272870" />
+    <state x="450" y="114" width="489" height="567" key="DetectedRootsChooserDialog" timestamp="1582745142258">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="450" y="114" width="489" height="567" key="DetectedRootsChooserDialog/45.27.1321.741@45.27.1321.741" timestamp="1582745142258" />
+    <state x="483" y="155" width="735" height="484" key="FileChooserDialogImpl" timestamp="1583928623752">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="483" y="155" width="735" height="484" key="FileChooserDialogImpl/45.27.1321.741@45.27.1321.741" timestamp="1583928623752" />
+    <state width="1275" height="175" key="GridCell.Tab.0.bottom" timestamp="1583645275516">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="1275" height="175" key="GridCell.Tab.0.bottom/45.27.1321.741@45.27.1321.741" timestamp="1583645275516" />
+    <state width="1275" height="175" key="GridCell.Tab.0.center" timestamp="1583645275515">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="1275" height="175" key="GridCell.Tab.0.center/45.27.1321.741@45.27.1321.741" timestamp="1583645275515" />
+    <state width="1275" height="175" key="GridCell.Tab.0.left" timestamp="1583645275514">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="1275" height="175" key="GridCell.Tab.0.left/45.27.1321.741@45.27.1321.741" timestamp="1583645275514" />
+    <state width="1275" height="175" key="GridCell.Tab.0.right" timestamp="1583645275516">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="1275" height="175" key="GridCell.Tab.0.right/45.27.1321.741@45.27.1321.741" timestamp="1583645275516" />
+    <state width="637" height="219" key="GridCell.Tab.1.bottom" timestamp="1583313857184">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="637" height="219" key="GridCell.Tab.1.bottom/45.27.1321.741@45.27.1321.741" timestamp="1583313857184" />
+    <state width="637" height="219" key="GridCell.Tab.1.center" timestamp="1583313857184">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="637" height="219" key="GridCell.Tab.1.center/45.27.1321.741@45.27.1321.741" timestamp="1583313857184" />
+    <state width="637" height="219" key="GridCell.Tab.1.left" timestamp="1583313857183">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="637" height="219" key="GridCell.Tab.1.left/45.27.1321.741@45.27.1321.741" timestamp="1583313857183" />
+    <state width="637" height="219" key="GridCell.Tab.1.right" timestamp="1583313857184">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="637" height="219" key="GridCell.Tab.1.right/45.27.1321.741@45.27.1321.741" timestamp="1583313857184" />
+    <state x="291" y="51" width="867" height="691" key="NewModule_or_Project.wizard" timestamp="1583928631929">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="291" y="51" width="867" height="691" key="NewModule_or_Project.wizard/45.27.1321.741@45.27.1321.741" timestamp="1583928631929" />
+    <state x="188" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1582745958815">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="188" y="27" width="1024" height="741" key="SettingsEditor/45.27.1321.741@45.27.1321.741" timestamp="1582745958815" />
+    <state x="361" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583928384959">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="361" y="224" key="com.intellij.ide.util.TipDialog/45.27.1321.741@45.27.1321.741" timestamp="1583928384959" />
+    <state x="260" y="84" width="880" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583270504683">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="260" y="84" width="880" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/45.27.1321.741@45.27.1321.741" timestamp="1583270504683" />
+    <state x="45" y="27" width="1311" height="741" key="new project wizard" timestamp="1583084938517">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="45" y="27" width="1311" height="741" key="new project wizard/45.27.1321.741@45.27.1321.741" timestamp="1583084938517" />
+    <state x="369" y="175" key="run.anything.popup" timestamp="1583074579234">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="369" y="175" key="run.anything.popup/45.27.1321.741@45.27.1321.741" timestamp="1583074579234" />
+    <state x="369" y="42" width="672" height="676" key="search.everywhere.popup" timestamp="1583266770062">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="369" y="42" width="672" height="676" key="search.everywhere.popup/45.27.1321.741@45.27.1321.741" timestamp="1583266770062" />
+  </component>
+</project>
